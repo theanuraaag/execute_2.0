@@ -982,31 +982,32 @@ h1, h2, h3, h4, h5, h6 {
 }
 .gold{
   padding: 40px 0px 60px;
-  background-image: linear-gradient(0deg,#f91a1a,#fd9608,#eefd1c,#f91a1a,#fd9608);
+  background-image: url(/images/cards/gold-bg.jpg);
   background-size: cover;
-  box-shadow: 0 5px 10px 0 #f91a1a;
+  box-shadow: 0 5px 10px 0 rgb(106, 106, 2);
 }
 .silver{
   padding: 40px 0px 60px;
-  background-image: linear-gradient(0deg,#0031f5,#389fff,#77f1f3,#0031f5,#389fff);
-  box-shadow: 0 5px 10px 0 #0031f5;
+  background-image: url(/images/cards/silver-bg.jpg);
+  background-size: cover;
+  box-shadow: 0 5px 10px 0 #605f60;
 }
 .bronze{
   padding: 40px 0px 60px;
-  background-image: linear-gradient(0deg,#32bd00,#47fd3a,#e8ffb8,#32bd00,#47fd3a);
+  background-image: url(/images/cards/bronze-bg.jpg);
   background-size: cover; 
-  box-shadow: 0 5px 10px 0 #32bd00;
+  box-shadow: 0 5px 10px 0 #4f1e1e;
 }
 
 
 #buy-tickets .gold:hover {
-  box-shadow: 0 20px 50px 0 #f91a1a;
+  box-shadow: 0 20px 50px 0 rgb(106, 106, 2);
 }
 #buy-tickets .silver:hover {
-  box-shadow: 0 20px 50px 0 #0031f5;
+  box-shadow: 0 20px 50px 0 #605f60;
 }
 #buy-tickets .bronze:hover {
-  box-shadow: 0 20px 50px 0 #32bd00;
+  box-shadow: 0 20px 50px 0 #4f1e1e;
 }
 
 
