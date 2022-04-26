@@ -1059,7 +1059,11 @@ h1, h2, h3, h4, h5, h6 {
 #buy-tickets #buy-ticket-modal .btn:hover {
   background-color: #e0072f;
 }
-
+@media (max-width: 392px) {
+    .prize-font{
+      font-size: 30px !important;
+    }
+}
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
@@ -1115,11 +1119,6 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 438px) and (min-width: 393px) {
   #logo img{
     height: 50px; 
-  }
-}
-@media (max-width: 392px) {
-  #logo img{
-    height: 40px;
   }
 }
 #contact .php-email-form .error-message {
