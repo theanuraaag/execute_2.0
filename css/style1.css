@@ -983,18 +983,21 @@ h1, h2, h3, h4, h5, h6 {
 .gold{
   padding: 40px 0px 60px;
   background-image: url(/images/cards/gold-bg.jpg);
+  opacity: 82%;
   background-size: cover;
   box-shadow: 0 5px 10px 0 rgb(106, 106, 2);
 }
 .silver{
   padding: 40px 0px 60px;
   background-image: url(/images/cards/silver-bg.jpg);
+  opacity: 82%;
   background-size: cover;
   box-shadow: 0 5px 10px 0 #605f60;
 }
 .bronze{
   padding: 40px 0px 60px;
   background-image: url(/images/cards/bronze-bg.jpg);
+  opacity: 82%;
   background-size: cover; 
   box-shadow: 0 5px 10px 0 #4f1e1e;
 }
