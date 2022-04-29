@@ -982,21 +982,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 .gold{
   padding: 40px 0px 60px;
-  background-image: url(/images/cards/goldBG.jpg);
+  background-image: url(https://drive.google.com/uc?id=1SYx_5fW-AaUlPfj9d0VJ4FRXKnSAMT9i);
   opacity: 82%;
   background-size: cover;
   box-shadow: 0 5px 10px 0 rgb(106, 106, 2);
 }
 .silver{
   padding: 40px 0px 60px;
-  background-image: url(/images/cards/silverBG.jpg);
+  background-image: url(https://drive.google.com/uc?id=1Qdg-HHiAjbL66FumuiRGVkozxjfHapLI);
   opacity: 82%;
   background-size: cover;
   box-shadow: 0 5px 10px 0 #605f60;
 }
 .bronze{
   padding: 40px 0px 60px;
-  background-image: url(/images/cards/bronzeBG.jpg);
+  background-image: url(https://drive.google.com/uc?id=1Bhbk3M6nU65R9XiFzf-4bgLv1pvEgtBt);
   opacity: 82%;
   background-size: cover; 
   box-shadow: 0 5px 10px 0 #4f1e1e;
