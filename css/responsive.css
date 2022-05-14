@@ -405,6 +405,12 @@
 }
 
 @media only screen and (max-width: 769px){
+	.hide{
+		display: none;
+	}
+	.bronze{
+		margin-bottom: 50px;
+	}
 	.main-header .header-upper .logo-box{
 		padding: 20px 0 !important;
 	}
