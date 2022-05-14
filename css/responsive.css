@@ -5,7 +5,6 @@
 		margin: -100px 20px 0px;
     	background-color: rgb(19, 18, 73);
 	}
-
 	.coming-soon-section .outer-container{
 		margin-right: 0;
 	}
@@ -921,6 +920,12 @@
 	}
 	.Revealing{
 		font-size: 25px;
+	}
+	.hide{
+		display: none;
+	}
+	.bronze{
+		margin-bottom: 50px;
 	}
 }
 @media only screen and (max-width: 300px)
