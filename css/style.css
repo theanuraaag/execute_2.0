@@ -2878,7 +2878,12 @@ a.ui-button:active, .ui-button:active,
 	width: 100%;
 	height: auto;
 }
-
+.zoom {
+	transition: transform 0.5s ease;
+}
+.zoom:hover {
+	transform: scale(1.25);
+}
 .about-section .icon-circle-3{
 	top: -490px !important;
 	left: -535px !important;
