@@ -2884,6 +2884,18 @@ a.ui-button:active, .ui-button:active,
 .zoom:hover {
 	transform: scale(1.25);
 }
+
+.size_correction{
+  width: 7.5rem;
+  height: 7.5rem;
+}
+
+.arya{
+  height: 10rem;
+  width: 10rem;
+}
+
+
 .about-section .icon-circle-3{
 	top: -490px !important;
 	left: -535px !important;
