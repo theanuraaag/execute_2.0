@@ -7578,6 +7578,9 @@ a.ui-button:active, .ui-button:active,
 	background-color: #ff5d6b;
 }
 
+.social-icon-colored li.discord a{
+	background-color: #5865F2;
+}
 .social-icon-colored li.vimeo a{
 	background-color: #1ab7ea;
 }
