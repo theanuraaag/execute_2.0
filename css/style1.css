@@ -1001,12 +1001,21 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover; 
   box-shadow: 0 5px 10px 0 #4f1e1e;
 }
-.blue{
+.tezos{
   padding: 40px 0px 60px;
-  background-image: url(https://drive.google.com/uc?id=1Qc6iPhiLxOy2tIrSnKo0fXRvgNrep9jA);
+  background-image: url(https://drive.google.com/uc?id=1oudz5LZsSXAVm_Qp_7AIYL4gioYYQTVn);
+  background-position: -150px;
   opacity: 82%;
   background-size: cover;
   box-shadow: 0 5px 10px 0 #1a12fd;
+}
+.arcana{
+  padding: 40px 0px 60px;
+  background-image: url(https://drive.google.com/uc?id=1d0iFGUmlXNFr4pdWQhkMLbx0t8kGKcVI);
+  background-position: 65px 10px;
+  opacity: 82%;
+  background-size: 330px;
+  box-shadow: 0 5px 10px 0 #000000;
 }
 
 #buy-tickets .gold:hover {
@@ -1018,8 +1027,12 @@ h1, h2, h3, h4, h5, h6 {
 #buy-tickets .bronze:hover {
   box-shadow: 0 20px 50px 0 #4f1e1e;
 }
-#buy-tickets .blue:hover {
+#buy-tickets .tezos:hover {
   box-shadow: 0 20px 50px 0 #1a12fd;
+}
+
+#buy-tickets .arcana:hover {
+  box-shadow: 0 20px 50px 0 #000000;
 }
 
 #buy-tickets h5 {
@@ -1075,9 +1088,6 @@ h1, h2, h3, h4, h5, h6 {
     .prize-font{
       font-size: 30px !important;
     }
-}
-.fa-discord{
-
 }
 /*--------------------------------------------------------------
 # Contact Section
